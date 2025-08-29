@@ -125,16 +125,16 @@
     position: relative;
 }
 .middle .circle:nth-child(1){
-    background-image: url(WhatsAppImage2022-06-01at1.00.46PM_1_2048x.webp);
+    background-image: url(assets/WhatsAppImage2022-06-01at1.00.46PM_1_2048x.webp);
     background-size: 350%;
 }
 .middle .circle:nth-child(2){
-    background-image: url(images.jpeg);
+    background-image: url(assets/images.jpeg);
     margin: 3rem 0;
     background-size: 150%;
 }
 .middle .circle:nth-child(3){
-    background-image: url(images\ \(1\).jpeg);
+    background-image: url(assets/images\ \(1\).jpeg);
 }
 .middle .circle::before{
     content: "";
